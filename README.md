@@ -195,7 +195,7 @@ IPS 补丁文件名按 Build ID 决定是否加载，因此**与本汉化版捆�
 | 游戏逻辑 | — | **零改动** |
 | IPS 补丁 | — | **与官方逐字节一致** |
 
-字库使用 [思源黑体 Source Han Sans SC](https://github.com/adobe-fonts/source-han-sans) Medium 字重，按 [SIL Open Font License 1.1](docs/SourceHanSans-OFL.txt) 授权，可自由分发，许可文件已随包附带。
+字库使用 [思源黑体 Source Han Sans SC](https://github.com/adobe-fonts/source-han-sans) Medium 字重，按 [SIL Open Font License 1.1](SourceHanSans-OFL.txt) 授权，可自由分发，许可文件已随包附带。
 
 ---
 
@@ -239,7 +239,7 @@ IPS 补丁文件名按 Build ID 决定是否加载，因此**与本汉化版捆�
 
 **原作者：fxbii.dev** — 全部功能实现、内存逆向、菜单图形与运行时代码。原仓库：[fxbiidev/hyrule-cheat-menu](https://github.com/fxbiidev/hyrule-cheat-menu)。原版 README 明确说明「未对作者原始代码授予额外通用开源许可」，本汉化版按原发布形式分发，未改动游戏逻辑与 IPS 补丁。
 
-**快速旅行目的地数据** 来自 Clay Mullis 的 Fast Travel 参考项目，遵循 [MIT 许可](docs/Fast-Travel-LICENSE.txt)。
+**快速旅行目的地数据** 来自 Clay Mullis 的 Fast Travel 参考项目，遵循 [MIT 许可](Fast-Travel-LICENSE.txt)。
 
 **中文字库** 使用 [思源黑体 Source Han Sans SC](https://github.com/adobe-fonts/source-han-sans)，遵循 [SIL Open Font License 1.1](docs/SourceHanSans-OFL.txt)。
 
