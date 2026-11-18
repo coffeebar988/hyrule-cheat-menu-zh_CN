@@ -38,8 +38,8 @@ Hyrule Cheat Menu 是一个运行在《塞尔达传说：时之笛》重制版�
 汉化版保留了原版的翡翠绿 + 金色配色、右侧说明卡片、选中高亮条与状态提示，并把全部界面文本译为简体中文。
 
 <p align="center">
-  <img src="docs/preview-cheats.png" width="49%" alt="金手指页">
-  <img src="docs/preview-travel.png" width="49%" alt="快速旅行页">
+  <img src="preview-cheats.png" width="49%" alt="金手指页">
+  <img src="preview-travel.png" width="49%" alt="快速旅行页">
 </p>
 
 > 上图是按源码坐标 1:1 复现的版面预览（840×576，与实机画布同尺寸），直接使用设备上运行的那份点阵字模渲染。
@@ -69,7 +69,11 @@ Hyrule Cheat Menu 是一个运行在《塞尔达传说：时之笛》重制版�
 ├── README.md                          ← 本文件
 ├── Hyrule-Cheat-Menu-v1.1.3-zh_CN.zip  ← 直接安装这个
 ├── Hyrule-Cheat-Menu-v1.1.3-zh_CN/     ← 解压后的目录，与 zip 内容一致
-└── docs/                              ← 版面预览图与第三方许可
+├── Fast-Travel-LICENSE.txt
+├── SourceHanSans-OFL.txt
+├── preview-cheats.png
+└── preview-travel.png
+
 ```
 
 源码与构建脚本请前往[原仓库](https://github.com/fxbiidev/hyrule-cheat-menu)，本仓库不重复分发。
